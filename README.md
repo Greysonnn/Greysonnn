@@ -2,7 +2,7 @@
 ## 👋 Hi, I’m Greyson
 
 ## 🚀 About Me
--->
+
 - 🔭 I’m currently exploring AI agents, automation tools, and blockchain to create innovative solutions.
 <!-- 🌱 I’m learning advanced Python for data science, Solidity for smart contracts, and C++ for performance-critical applications.
 - 💻 I specialize in Linux environments, JavaScript for web development, and Python for automation and scripting. -->

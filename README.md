@@ -1,10 +1,6 @@
 
 ## 👋 Hi, I’m Greyson
 
-<!--
-Welcome to my GitHub profile! I’m a passionate developer and security enthusiast with a knack for building robust, scalable solutions and exploring cutting-edge technologies. I’m always eager to learn, collaborate, and tackle new challenges in development and cybersecurity.
--->
-<!--
 ## 🚀 About Me
 -->
 - 🔭 I’m currently exploring AI agents, automation tools, and blockchain to create innovative solutions.
@@ -20,8 +16,6 @@ Welcome to my GitHub profile! I’m a passionate developer and security enthusia
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
-## 📊 GitHub Stats
-
 
 ## 🏆 Certifications & Achievements
 - **TryHackMe**: Actively engaged in cybersecurity challenges and learning.

@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I’m a passionate developer and security enthusia
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greysonnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greysonnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ---
 
 ## 🏆 Certifications & Achievements

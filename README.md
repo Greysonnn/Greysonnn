@@ -18,7 +18,7 @@
  
 
 ## 🏆 Certifications & Achievements
-- **TryHackMe**: Actively engaged in cybersecurity challenges and learning.
+- **TryHackMe**: Less... Actively engaged in cybersecurity challenges and learning.
   
   <img src="https://tryhackme-badges.s3.amazonaws.com/99GG.png" alt="TryHackMe" width="200">
 ---

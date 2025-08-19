@@ -2,13 +2,11 @@
 ## 👋 Hi, I’m Greyson
 
 ## 🚀 About Me
+🔭 I’m currently exploring AI agents, automation tools, and blockchain to create innovative solutions.
 
-- 🔭 I’m currently exploring AI agents, automation tools, and blockchain to create innovative solutions.
-<!-- 🌱 I’m learning advanced Python for data science, Solidity for smart contracts, and C++ for performance-critical applications.
-- 💻 I specialize in Linux environments, JavaScript for web development, and Python for automation and scripting. -->
-- 🎯 Open to opportunities in software development, cybersecurity, and blockchain projects—feel free to reach out!
+🎯 Open to opportunities in software development, cybersecurity, and blockchain projects—feel free to reach out!
   
-- 📫 How to reach me: connect with me on [LinkedIn](https://linkedin.com/in/greyson-evers-70b72a20a/)
+📫 How to reach me: connect with me on [LinkedIn](https://linkedin.com/in/greyson-evers-70b72a20a/)
 
 ---
 

@@ -1,6 +1,4 @@
-
 ## 👋 Hi, I’m Greyson
-
 ## 🚀 About Me
 🔭 I’m currently exploring AI agents, automation tools, and blockchain to create innovative solutions.
 

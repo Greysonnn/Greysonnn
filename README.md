@@ -8,7 +8,7 @@
 - 💻 I specialize in Linux environments, JavaScript for web development, and Python for automation and scripting. -->
 - 🎯 Open to opportunities in software development, cybersecurity, and blockchain projects—feel free to reach out!
   
-- 📫 How to reach me: connect with me on [LinkedIn](https://linkedin.com/in/greyson).
+- 📫 How to reach me: connect with me on [LinkedIn](https://linkedin.com/in/greyson-evers-70b72a20a/)
 
 ---
 

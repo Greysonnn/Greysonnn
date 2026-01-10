@@ -11,9 +11,9 @@
                               |  $$$$$$/                              
                                \______/
 ```
-🔭 I’m currently exploring AI agents, automation tools, and blockchain to create innovative solutions.
+🔭 I’m currently exploring AI, automation, and blockchain to create innovative solutions.
 
-🎯 Open to opportunities in software development, cybersecurity, and blockchain projects—feel free to reach out!
+🎯 Open to opportunities 
 
 📫 How to reach me: connect with me on [LinkedIn](https://linkedin.com/in/greyson-evers-70b72a20a/)
 

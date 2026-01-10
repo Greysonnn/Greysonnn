@@ -26,4 +26,3 @@ I’m working on a variety of projects, from web applications and smart contract
 - **Blockchain Projects**: Solidity-based smart contracts for Ethereum.
 - **Security Research**: Linux-based tools for penetration testing and vulnerability assessment. 
 - **IoT OT ICS SCADA PLC**: Automation, security, etc.
-

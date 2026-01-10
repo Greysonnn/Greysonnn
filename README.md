@@ -1,5 +1,16 @@
-## 👋 Hi, I’m Greyson
-## 🚀 About Me
+```
+  /$$$$$$                                                             
+ /$$__  $$                                                            
+| $$  \__/  /$$$$$$   /$$$$$$  /$$   /$$  /$$$$$$$  /$$$$$$  /$$$$$$$ 
+| $$ /$$$$ /$$__  $$ /$$__  $$| $$  | $$ /$$_____/ /$$__  $$| $$__  $$
+| $$|_  $$| $$  \__/| $$$$$$$$| $$  | $$|  $$$$$$ | $$  \ $$| $$  \ $$
+| $$  \ $$| $$      | $$_____/| $$  | $$ \____  $$| $$  | $$| $$  | $$
+|  $$$$$$/| $$      |  $$$$$$$|  $$$$$$$ /$$$$$$$/|  $$$$$$/| $$  | $$
+ \______/ |__/       \_______/ \____  $$|_______/  \______/ |__/  |__/
+                               /$$  | $$                              
+                              |  $$$$$$/                              
+                               \______/
+```
 🔭 I’m currently exploring AI agents, automation tools, and blockchain to create innovative solutions.
 
 🎯 Open to opportunities in software development, cybersecurity, and blockchain projects—feel free to reach out!

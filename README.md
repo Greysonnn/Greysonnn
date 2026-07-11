@@ -29,10 +29,4 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/99GG.png" alt="TryHackMe" width="200">
 
 
-## 🌐 Projects & Contributions
-I’m working on a variety of projects, from web applications and smart contracts to automation scripts and security tools. Check out my repositories to see my latest work, including:
 
-- **Automation Tools**: Python scripts for task scheduling and trigger-based workflows 
-- **Blockchain Projects**: Solidity-based smart contracts for Ethereum, Rust based Solana contracts.
-- **Security Research**: Linux-based tools for penetration testing and vulnerability assessment. 
-- **IoT OT ICS SCADA PLC**: Automation, security, logic, etc.
